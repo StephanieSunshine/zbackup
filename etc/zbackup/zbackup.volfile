@@ -1,0 +1,8 @@
+# One line per ZFS volume
+
+rpool/ROOT/pve-1/vm-100-disk-1
+rpool/ROOT/pve-1/vm-101-disk-1
+rpool/ROOT/pve-1/vm-102-disk-1
+rpool/ROOT/pve-1/vm-108-disk-1
+rpool/ROOT/pve-1
+rpool/subvol-110-disk-1
